@@ -1,4 +1,3 @@
-var http = require('https');
 var request = require("request");
 
 function CanvasDB(url, accessToken) {
